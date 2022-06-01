@@ -11,4 +11,7 @@ public class AccountDTO {
     private int id;
     private String userName;
     private long balance;
+    
+    
+    
 }
